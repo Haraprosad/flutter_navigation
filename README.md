@@ -148,4 +148,3 @@ Source: [https://resocoder.com/2020/01/10/flutter-zero-boilerplate-router-with-a
 
 **}**
 
-
